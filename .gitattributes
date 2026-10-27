@@ -1,0 +1,10 @@
+# Preserve exact submission CSV and archive bytes.
+*.csv -text
+*.zip binary
+*.png binary
+*.jpg binary
+*.pdf binary
+# Portable source and documentation line endings.
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf

@@ -1,0 +1,174 @@
+{
+  "account_admin_console_20260926.png": {
+    "records": [],
+    "candidate_refs": [
+      "haruka.s1838@zoho.com"
+    ],
+    "error": null
+  },
+  "analytics_profile_view_20260713.png": {
+    "records": [],
+    "candidate_refs": [
+      "analytics_7438"
+    ],
+    "error": null
+  },
+  "backup_restore_console_20260429.png": {
+    "records": [
+      {
+        "system_id": "backup_service",
+        "resource_id": "backup_9291",
+        "user_ref": "bluepeacko@outlook.com",
+        "state_at_evidence": "PRESENT",
+        "pii_hits": [],
+        "visible_text": "backup_9291 bluepeacko@outlook.com"
+      },
+      {
+        "system_id": "backup_service",
+        "resource_id": "backup_9288",
+        "user_ref": "miller.logistics@company.com",
+        "state_at_evidence": "PRESENT",
+        "pii_hits": [],
+        "visible_text": "backup_9288 miller.logistics@company.com"
+      },
+      {
+        "system_id": "backup_service",
+        "resource_id": "backup_9287",
+        "user_ref": "areed1433@gmail.com",
+        "state_at_evidence": "PRESENT",
+        "pii_hits": [
+          {
+            "field_path": "user_ref",
+            "value_kind": "email",
+            "value": "areed1433@gmail.com"
+          }
+        ],
+        "visible_text": "backup_9287 areed1433@gmail.com"
+      },
+      {
+        "system_id": "backup_service",
+        "resource_id": "backup_9286",
+        "user_ref": "summit-retail@company.com",
+        "state_at_evidence": "PRESENT",
+        "pii_hits": [],
+        "visible_text": "backup_9286 summit-retail@company.com"
+      }
+    ],
+    "candidate_refs": [
+      "areed1433@gmail.com",
+      "bluepeacko@outlook.com",
+      "miller.logistics@company.com",
+      "summit-retail@company.com"
+    ],
+    "error": null
+  },
+  "connector_management_console_20260807.png": {
+    "records": [],
+    "candidate_refs": [
+      "jain.aditi@gmail.com",
+      "lucia-torres@gmail.com"
+    ],
+    "error": null
+  },
+  "customer_export_console_20260618.png": {
+    "records": [
+      {
+        "system_id": "export_service",
+        "resource_id": "export_1260",
+        "user_ref": "ingrid.dahl@outlook.com",
+        "state_at_evidence": "PRESENT",
+        "pii_hits": [],
+        "visible_text": "export_1260 customer_export_1260.zip ingrid.dahl@outlook.com"
+      },
+      {
+        "system_id": "export_service",
+        "resource_id": "export_1261",
+        "user_ref": "marcus.lee@northstar.shop",
+        "state_at_evidence": "PRESENT",
+        "pii_hits": [],
+        "visible_text": "export_1261 customer_export_1261.zip marcus.lee@northstar.shop"
+      },
+      {
+        "system_id": "export_service",
+        "resource_id": "export_1259",
+        "user_ref": "sara.kim@northstar.shop",
+        "state_at_evidence": "PRESENT",
+        "pii_hits": [],
+        "visible_text": "export_1259 customer_export_1259.zip sara.kim@northstar.shop"
+      },
+      {
+        "system_id": "export_service",
+        "resource_id": "export_1258",
+        "user_ref": "daniel.park@northstar.shop",
+        "state_at_evidence": "PRESENT",
+        "pii_hits": [],
+        "visible_text": "export_1258 customer_export_1258.zip daniel.park@northstar.shop"
+      }
+    ],
+    "candidate_refs": [
+      "daniel.park@northstar.shop",
+      "ingrid.dahl@outlook.com",
+      "marcus.lee@northstar.shop",
+      "sara.kim@northstar.shop"
+    ],
+    "error": null
+  },
+  "deleted_account_reference_20260310.png": {
+    "records": [],
+    "candidate_refs": [
+      "user_17"
+    ],
+    "error": null
+  },
+  "marketing_profile_console.png": {
+    "records": [],
+    "candidate_refs": [
+      "marketing_001",
+      "sj.park@naver.com"
+    ],
+    "error": null
+  },
+  "object_storage_browser_20260213.png": {
+    "records": [],
+    "candidate_refs": [
+      "support-service"
+    ],
+    "error": null
+  },
+  "search_index_inspector_20260901.png": {
+    "records": [
+      {
+        "system_id": "search_service",
+        "resource_id": "search_428",
+        "user_ref": "g.silva76@gmail.com",
+        "state_at_evidence": "PRESENT",
+        "pii_hits": [
+          {
+            "field_path": "email",
+            "value_kind": "email",
+            "value": "g.silva76@gmail.com"
+          }
+        ],
+        "visible_text": "search_428, g.silva76@gmail.com"
+      }
+    ],
+    "candidate_refs": [
+      "g.silva76@gmail.com"
+    ],
+    "error": null
+  },
+  "security_audit_explorer_20260905.png": {
+    "records": [],
+    "candidate_refs": [
+      "user_03"
+    ],
+    "error": null
+  },
+  "support_ticket_console_20260524.png": {
+    "records": [],
+    "candidate_refs": [
+      "kagyeman8947@fastmail.com"
+    ],
+    "error": null
+  }
+}

@@ -1,0 +1,1 @@
+FLOW_CLASS_PROMPT = """Classify the deletion-audit resource as flow or record. A connector actively copying user data is a flow; a saved row merely named flow is not enough. Return JSON with classification (flow|record), confidence (0..1), reasoning. Resource ID: {resource_id}. Visible data: {record_json}"""
